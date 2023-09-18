@@ -6,4 +6,4 @@ Before going to programming procedure, you can follow some stept first:
 ![1](https://github.com/rithylim99/Temperature-Detector-IoT/assets/101658566/1075899d-cd80-4eed-91fa-c036026e91f6)
 
 2. Then close the Preferences tab and goto Board manager Tab and download esp32 board by Espressif system:
-3. ![2](https://github.com/rithylim99/Temperature-Detector-IoT/assets/101658566/6fc52ba5-6850-42a8-8558-42c2b82574a9)
+ ![2](https://github.com/rithylim99/Temperature-Detector-IoT/assets/101658566/6fc52ba5-6850-42a8-8558-42c2b82574a9)
