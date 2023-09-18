@@ -12,3 +12,7 @@ After download the esp32 board, here are the library that I used for coding:
 1. DHT Sensor Libray
 
 ![3](https://github.com/rithylim99/Temperature-Detector-IoT/assets/101658566/df9f0496-67d2-46e6-a669-6c2d8313dc53)
+
+At the end, the result will shown as figure below after you run the code:
+
+![4](https://github.com/rithylim99/Temperature-Detector-IoT/assets/101658566/cda58a01-9ed5-463b-b428-921eea0ce901)
