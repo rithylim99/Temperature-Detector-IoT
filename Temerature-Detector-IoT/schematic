@@ -1,7 +1,5 @@
 Here is the schematic and I used in this project:
 
-![5](https://github.com/rithylim99/Temperature-Detector-IoT/assets/101658566/3723ad8b-9414-4694-9478-3e958aa1eb02)
-
 VCC       -----> 3.3V
 GND       -----> GND
 S(Signal) -----> GPIO 26
